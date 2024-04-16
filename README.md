@@ -23,8 +23,8 @@ policymakers can implement preemptive measures to mitigate the impact of such ev
 efforts. Measures of tail risk also inform the design of macroprudential policies aimed at preventing systemic risks and
 maintaining financial stability.
 
-Moreover, in economic forecasting, incorporating measures of macroeconomic tail risk enhances the accuracy and reliability of forecasts, particularly during periods of heightened uncertainty. By accounting for the potential occurrence of
-extreme economic events, forecasters can provide more realistic assessments of future economic conditions and better inform decision-makers in both the public and private sectors. Moreover, incorporating measures of tail risk into forecasting
+Moreover, in economic forecasting, incorporating measures of macroeconomic tail risk enhances the accuracy and reliability of forecasts, particularly during periods of heightened uncertainty. By accounting for the potential occurrence of
+extreme economic events, forecasters can provide more realistic assessments of future economic conditions and better-informed decision-makers in both the public and private sectors. Moreover, incorporating measures of tail risk into forecasting
 models enables policymakers to develop contingency plans and policy responses to mitigate the impact of adverse shocks
 on the economy. Overall, understanding and quantifying macroeconomic tail risk is essential for advancing knowledge of
 financial markets, guiding investment decisions, managing risks, and formulating effective economic policies
